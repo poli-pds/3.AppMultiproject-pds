@@ -1,3 +1,5 @@
 rootProject.name = 'AppMultiproject'
 
 include 'product-service'
+include 'customer-service'
+include 'shopping-service'
