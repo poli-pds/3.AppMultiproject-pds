@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: config-service
+  cloud:
+    config:
+      server:
+        git:
+          uri: file:///E:/Poli2023-1/PDS/Repos/config-data
+  security:
+    user:
+      name: admin
+      password: admin
+server:
+  port: 9000
+

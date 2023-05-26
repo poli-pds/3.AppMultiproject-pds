@@ -8,8 +8,9 @@
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.26/8f8cf0372abf564913e9796623aac4c8ea44025a/lombok-1.18.26.jar" />
         </processorPath>
-        <module name="AppMultiproject.customer-service.main" />
         <module name="AppMultiproject.product-service.main" />
+        <module name="AppMultiproject.config-service.main" />
+        <module name="AppMultiproject.customer-service.main" />
         <module name="AppMultiproject.shopping-service.main" />
       </profile>
     </annotationProcessing>
